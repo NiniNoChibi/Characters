@@ -34,7 +34,8 @@ Collection of characters I commissioned.
 
 ## Series
 
--  [Steins;Gate] ( Incomplete )
+-  [Steins;Gate](./Characters/STEINS;GATE/) ( Incomplete )
+-  [Frieren](./Characters/葬送のフリーレン/) ( Incomplete )
 
 <br>
 
